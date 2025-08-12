@@ -8,7 +8,7 @@ public class  controle : MonoBehaviour
    public int volume;
    public int volumeSFX;
    public bool musica;
-   public TextMeshProUGUI textomusica;
+   public TMP_Text textomusica;
 
 
    public Slider volumeslider;
